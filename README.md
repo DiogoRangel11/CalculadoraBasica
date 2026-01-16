@@ -38,8 +38,9 @@ Este projeto foi desenvolvido com fins educacionais, visando fortalecer:
 1. Execute o arquivo principal:
 ```bash
 python Calculadora.py
-
+```
 📌 Exemplo de Uso
+```
 Escolha a operação:
 1 - Soma
 2 - Subtração
@@ -52,6 +53,6 @@ Resultado: 15
 ```
 👨‍💻 Autor
 
-Diogo Rangel
-Estudante de Ciência da Computação
-GitHub: https://github.com/DiogoRangel11
+- Diogo Rangel
+- Estudante de Ciência da Computação
+- GitHub: https://github.com/DiogoRangel11
