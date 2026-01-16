@@ -37,7 +37,7 @@ Este projeto foi desenvolvido com fins educacionais, visando fortalecer:
 
 1. Execute o arquivo principal:
 ```bash
-python Calculadora.py
+python3 Calculadora.py
 ```
 📌 Exemplo de Uso
 ```
