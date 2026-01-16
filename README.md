@@ -19,7 +19,7 @@ Projeto simples de uma **calculadora em Python**, desenvolvida para praticar ló
 - Python 3.13.9
 
 ---
-##📚 Objetivo do Projeto
+## 📚 Objetivo do Projeto
 
 Este projeto foi desenvolvido com fins educacionais, visando fortalecer:
 
@@ -49,7 +49,7 @@ Escolha a operação:
 Digite o primeiro número: 10
 Digite o segundo número: 5
 Resultado: 15
-
+```
 👨‍💻 Autor
 
 Diogo Rangel
